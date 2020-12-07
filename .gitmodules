@@ -1,0 +1,12 @@
+[submodule "repos/mineysocket"]
+	path = repos/mineysocket
+	url = https://github.com/miney-py/mineysocket.git
+[submodule "repos/launcher"]
+	path = repos/launcher
+	url = https://github.com/miney-py/launcher.git
+[submodule "repos/miney"]
+	path = repos/miney
+	url = https://github.com/miney-py/miney.git
+[submodule "repos/minetest-windows"]
+	path = repos/minetest-windows
+	url = https://github.com/miney-py/minetest_windows.git

@@ -19,7 +19,10 @@ It's far easier to just download a precompiled release from the release page of 
 
 ## Usage
 
-Run: ```build_<minetest/miney>.py <x86/x64>```
+
+    git clone --recurse-submodules https://github.com/miney-py/miney_distribution.git
+    cd miney_distribution
+    python build.py <x86/x64>
 
 ## LICENSE
 

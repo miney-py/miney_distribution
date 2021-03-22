@@ -45,7 +45,7 @@ if len(sys.argv) > 1:
     else:
         ARCH = "x86"
 else:
-    ARCH = "x86"
+    ARCH = "x64"
 logger.info(f"Set CPU architecture to {ARCH}")
 
 join = path.join
